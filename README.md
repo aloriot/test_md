@@ -1,10 +1,10 @@
 ---
-title:  
-contact: 
-pi: 
-institute:  
-unit: 
-keywords:
+title:  titre
+contact: contact info
+pi: ...
+institute:  ...
+unit:  ...
+keywords: ...
 ---
 
 
